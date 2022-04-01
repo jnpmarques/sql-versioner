@@ -1,0 +1,9 @@
+database:
+  connector: PostgresqlConnector
+  dbname: nsoamt
+  user: nsoamt
+  password: nsoamt
+  host: localhost
+
+migrations:
+  path: /home/jpmarques/projects/data/testMigrations/
